@@ -1,6 +1,6 @@
-# **M**onitor • **O**verdue • **C**ertificate • **H**ealth • **I**ndicator
-
-![MOCHI is a tool to monitor the health of SSL certificates](public/static/image/mochi-guard.png)
+<h1 align="center" style="border-bottom: none">
+    <a href="https://github.com/mrofisr/mochi" target="_blank"><img alt="MOCHI" width="200" height="200" src="public/static/image/mochi-guard.png"></a><br>MOCHI
+</h1>
 
 # Introduction
 
