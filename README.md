@@ -1,5 +1,7 @@
 # MOCHI
 
+![MOCHI is a tool to monitor the health of SSL certificates](public/static/image/Removal-977.png)
+
 **M**onitor • **O**verdue • **C**ertificate • **H**ealth • **I**ndicator
 
 # Introduction
